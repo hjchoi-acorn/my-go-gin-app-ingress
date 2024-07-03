@@ -1,0 +1,1 @@
+1. Application my-go-gin-app-ingress has been successfully deployed!!
